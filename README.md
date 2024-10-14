@@ -1,2 +1,2 @@
 # presentations
-Resources for presentations
+Presentations given by Stefan.
